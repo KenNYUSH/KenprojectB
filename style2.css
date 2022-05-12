@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+    position: absolute;
+    width: 100%;
+  
+    /*top: calc(50% - 200px);  /* half of canvas height */
+  }
+  
+  
+  h1 {
+  color: darkgoldenrod;
+ 
+    text-align:center ;
+    vertical-align: middle;
+
+
+  background-color: lightyellow;
+  }
+
+p{
+color:goldenrod;
+text-align: center;
+
+}
+
+  body{
+    background-color: lightgreen;
+  }

@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+    position: absolute;
+    width: 100%;
+  
+    /*top: calc(50% - 200px);  /* half of canvas height */
+  }
+  
+  
+  h1 {
+  color: purple;
+ 
+    text-align:center ;
+    vertical-align: middle;
+
+
+  background-color:hotpink;
+  }
+
+p{
+color:lightcoral;
+text-align: center;
+
+
+}
+
+  body{
+    background-color: lightpink;
+  }
